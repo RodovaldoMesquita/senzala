@@ -42,8 +42,3 @@ def spawnameixa(cordX,cordy):
     size = random.randint(50,60)
     ameixa(size)
 
-
-turtle.onscreenclick(spawnameixa,3)
-
-
-turtle.done()

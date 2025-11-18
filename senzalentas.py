@@ -41,8 +41,3 @@ def spawnmaçã(cordX,cordy):
     size = random.randint(50,60)
     maçã(size)
 
-
-turtle.onscreenclick(spawnmaçã,3)
-
-
-turtle.done()
